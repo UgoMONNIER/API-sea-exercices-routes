@@ -1,0 +1,12 @@
+
+VESSEL_SPEED_KNOTS = 14
+NM_TO_KM = 1.852
+CO2_KG_PER_TONNE_KM = 0.015
+DEFAULT_CARGO_WEIGHT_TONNES = 10
+
+CACHE_TTL_ROUTE  = 86400
+CACHE_TTL_PORT   = 2592000
+CACHE_TTL_VESSEL = 300
+
+NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
+HTTP_USER_AGENT = "maritime-mvp-searoutes-training"
