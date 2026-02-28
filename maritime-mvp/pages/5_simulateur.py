@@ -13,7 +13,7 @@ st.set_page_config(page_title="Maritime Survival", page_icon="🏢", layout="wid
 #  CONSTANTES
 # =====================================================
 
-MAX_TOURS       = 10
+MAX_TOURS       = 5
 BUDGET_INIT     = 10_000_000
 REPUTATION_INIT = 100
 FUEL_BASE       = 600
